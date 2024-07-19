@@ -1,2 +1,2 @@
-from get_acc_data import *
-from fft import *
+from get_acc_data import get_time_acc
+
