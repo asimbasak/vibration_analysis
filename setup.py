@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='vibration-analysis',
-    version='0.1',
+    name='vibration-analysis',  # Note the hyphen
+    version='0.1.0',
     author='Asim Basak',
-    author_email='basak.asim.cs@gmail.com',
+    author_email='your.email@example.com',
     description='A brief description of your package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
