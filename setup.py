@@ -8,7 +8,7 @@ setup(
     description='A brief description of your package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/asimbasak/ant_vibration_analysis',
+    url='https://github.com/asimbasak/vibration_analysis',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
