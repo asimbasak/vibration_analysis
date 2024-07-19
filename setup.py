@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='vibration_analysis',
+    name='vibration-analysis',
     version='0.1',
     author='Asim Basak',
     author_email='basak.asim.cs@gmail.com',
